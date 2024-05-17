@@ -16,3 +16,19 @@
 .seasons {
     background-color: #F5F5FA;
 }
+
+.container1 {
+    background-color: #2AA4B7;
+}
+
+.title {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    color: black;
+}
+
+.imagen {
+    height: 50px;
+}
